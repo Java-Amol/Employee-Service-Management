@@ -11,7 +11,8 @@ public class EmployeeServiceManagementApplication {
 		System.out.println("Hello World");
 		System.out.println("Done");
 		System.out.println("Sucessfully Upload On Git");
-		System.out.println(" through STS");
+		
+		
 		
 	}
 
